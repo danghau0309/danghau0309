@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+- 🌱 I’m currently learning at FPT
+- 🤔 I’m looking for help with Intership
+- 💬 Ask me about anything
+- 📫 How to reach me: punch me ! 🤷‍♂️
+- ⚡ Fun fact: I want to be a hacker
+
 <!--
 **danghau0309/danghau0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
