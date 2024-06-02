@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🤷‍♂️ I'm Hau_Dang or Dev_snake
+- 🤷‍♂️ I'm hau_dang or dev_snake
 - 🌱 I’m currently learning at FPT
-- 🤔 I’m looking for help with Intership
 - 💬 Ask me about anything
 - 📫 How to reach me: punch me ! 🤷‍♂️
 - ⚡ Fun fact: I want to be a hacker
